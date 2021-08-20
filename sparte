@@ -1,0 +1,60 @@
+root:root 113.106.108.131 - SSH-2.0-Ope.SSH_7.4
+ port: 22 --> [root@web_server ~]#   
+root:123456 113.195.63.243 - SSH-2.0-Ope.SSH_5.8
+ port: 22 --> 
+  
+root:123456 113.195.63.243 - SSH-2.0-Ope.SSH_5.8
+ port: 22 --> cmdstat
+root:123456 113.195.63.243 - SSH-2.0-Ope.SSH_5.8
+ port: 22 --> 
+	status       : 2
+
+	status_tag   : COMMAND PROCESSING FAILED
+
+	error        : 253
+
+	error_tag    : COMMAND NOT RECOGNIZED
+root:123456 113.219.201.163 - SSH-2.0-Ope.SSH_7.4
+ port: 22 --> Linux localhost.localdomain 3.10.0-1160.6.1.el7.x86_64 #1 SMP Tue Nov 17 13:59:11 UTC 2020 x86_64 x86_64 x86_64 GNU/Linux
+admin:admin 113.8.194.3 - SSH-2.0-Ope.SSH_5.0 port: 22 --> [H[J
+Please select what you want to do ?
+------------------------------------------------
+1. Reset adminitrators to factory mode.
+2. Reset configuration to factory mode.
+3. Reassign manage network interface.
+4. Show license.
+5. Quit.
+------------------------------------------------
+admin:admin 113.196.185.27 - SSH-2.0-Ope.SSH_8.1
+ port: 22 --> GCAnalyzer # Unknown action 0
+GCAnalyzer #   
+user1:user1 113.153.97.154 - SSH-2.0-Ope.SSH_6.0p1 Debian-4+deb7u4
+ port: 22 --> Linux obsa6 3.2.54 #1 Fri Aug 21 16:53:52 JST 2015 armv5tel GNU/Linux
+admin:123456 113.68.67.90 - SSH-2.0-Ope.SSH_6.8p1-hpn14v6
+ port: 22 --> Linux DiskStation 3.10.102 #15284 SMP Mon Jul 9 23:04:53 CST 2018 x86_64 GNU/Linux synology_broadwell_3617xs
+admin:123456 113.109.138.180 - SSH-2.0-Ope.SSH_6.8p1-hpn14v6
+ port: 22 --> Linux DiskStation 3.10.102 #15284 SMP Mon Jul 9 23:04:53 CST 2018 x86_64 GNU/Linux synology_broadwell_3617xs
+admin:123456 113.119.199.254 - SSH-2.0-Ope.SSH_6.8p1-hpn14v6
+ port: 22 --> Linux test-nas 3.10.102 #15254 SMP Fri Jan 26 06:43:52 CST 2018 x86_64 GNU/Linux synology_broadwell_3617xs
+root:Password 203.177.175.83 - SSH-2.0-Ope.SSH_3.6p1
+ port: 22 --> cli>   
+root:password 203.125.208.146 - SSH-1.99-Ope.SSH_3.9p1 port: 22 --> Linux sg-ftp.bossini.com.sg 2.6.9-5.ELsmp #1 SMP Wed Jan 5 19:30:39 EST 2005 i686 i686 i386 GNU/Linux
+root:Pa$$w0rd 203.140.79.165 - SSH-2.0-Ope.SSH
+ port: 22 --> Linux VBP 3.4.10 #1 SMP Wed Dec 13 20:28:36 PST 2017 i686 unknown
+root:Password 203.177.175.83 - SSH-2.0-Ope.SSH_3.6p1
+ port: 22 --> 
+% Timeout: Idle for more than 600 seconds
+root:Password 203.177.175.83 - SSH-2.0-Ope.SSH_3.6p1
+ port: 22 --> DSL Modem CLI
+Copyright (c) 2004 Texas Instruments, Inc.
+root:qq123456 203.137.195.133 - SSH-2.0-Ope.SSH_6.6.1
+ port: 22 --> Linux Q7 4.14.129-bbrplus #1 SMP Tue Jun 25 12:23:41 UTC 2019 x86_64 x86_64 x86_64 GNU/Linux
+root:password 203.125.208.146 - SSH-1.99-Ope.SSH_3.9p1 port: 22 --> Linux sg-ftp.bossini.com.sg 2.6.9-5.ELsmp #1 SMP Wed Jan 5 19:30:39 EST 2005 i686 i686 i386 GNU/Linux
+root:Password 203.177.175.83 - SSH-2.0-Ope.SSH_3.6p1
+ port: 22 --> cli>   
+root:Password 203.177.175.83 - SSH-2.0-Ope.SSH_3.6p1
+ port: 22 --> 
+% Timeout: Idle for more than 600 seconds
+root:Password 203.177.175.83 - SSH-2.0-Ope.SSH_3.6p1
+ port: 22 --> DSL Modem CLI
+203.137.195.133Copyright (c) 2004 Texas Instruments, Inc.
